@@ -16,3 +16,6 @@ If the button value is "AC", it clears the input box, and if the button value is
 Otherwise, it appends the button value to the string expression.
 
 Overall, your project creates a functional calculator with basic arithmetic operations using HTML, CSS, and JavaScript.
+#The calculator looks like this
+![Screenshot (22)](https://github.com/Anjali0105-pandey/aid_tech_calculator/assets/116626593/35624d08-7add-458b-86be-31a5aaf1f84d)
+
